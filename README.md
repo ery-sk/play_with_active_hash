@@ -145,7 +145,7 @@ end
 運用する際にこの名前は影響を与えない
 ```yaml
 hokkaido:
-  name: '北海道'
+  name: 北海道
 aomoriken:
   name: 青森県
 ```
